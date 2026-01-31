@@ -29,5 +29,5 @@ pip install -U pip
 pip install -r requirements.txt
 
 
-## Developper
-Chao Huang
+## Developer
+[Chao Huang](https://chaohuang2018.github.io/)
