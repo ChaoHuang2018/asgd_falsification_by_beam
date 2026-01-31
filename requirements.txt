@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+
+# Progress / utilities
+tqdm>=4.64
+
+# Plotting (optional but common for experiment scripts)
+matplotlib>=3.7
+
+# Testing
+pytest>=7.0
+
+# Optional: commercial solver for MIQCP cross-checks.
+# Install separately after setting up a valid Gurobi license:
+#   pip install gurobipy
+# gurobipy

@@ -1,0 +1,15 @@
+name: asgd_falsification_by_beam
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.23
+  - scipy>=1.9
+  - pandas>=1.5
+  - tqdm>=4.64
+  - matplotlib>=3.7
+  - pytest>=7.0
+  - pip
+  # Optional: if you want pip-only deps later
+  # - pip:
+  #     - gurobipy
